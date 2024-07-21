@@ -1,5 +1,4 @@
-- 🔭 Currently working on Autonomous Surface Vessel simulation in Unity.
-- 🌱 Interested in all things robotics, simulation and control.
+Open source is cool.
 
 <!--
 **edvart-ros/edvart-ros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
